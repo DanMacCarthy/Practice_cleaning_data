@@ -1,0 +1,29 @@
+ICD Code,Source Description of Disease,cause_of_absence
+1,Certain infectious and parasitic diseases  ,infectious_disease
+2,Neoplasms  ,neoplasms
+3,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism  ,blood_immune disease
+4,"Endocrine, nutritional and metabolic diseases  ",endocrine_nutritional_metabolic
+5,Mental and behavioural disorders  ,mental_health
+6,Diseases of the nervous system  ,nervous_system
+7,Diseases of the eye and adnexa  ,eye_disease
+8,Diseases of the ear and mastoid process  ,ear_disease
+9,Diseases of the circulatory system  ,circulatory_system  
+10,Diseases of the respiratory system  ,respiratory_system  
+11,Diseases of the digestive system  ,digestive_system  
+12,Diseases of the skin and subcutaneous tissue  ,skin_or_subcutaneous tissue
+13,Diseases of the musculoskeletal system and connective tissue  ,musculoskeletal_or_connective tissue
+14,Diseases of the genitourinary system  ,genitourinary_system
+15,"Pregnancy, childbirth and the puerperium  ",pregnancy_childbirth
+16,Certain conditions originating in the perinatal period  ,perinatal_health
+17,"Congenital malformations, deformations and chromosomal abnormalities  ",congenital_issue
+18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified  ",abnormal_clinical_results
+19,"Injury, poisoning and certain other consequences of external causes  ",injury_external_causation
+20,External causes of morbidity and mortality  ,morbidity_mortality_external
+21,Factors influencing health status and contact with health services.,health_factors_treatment
+22,patient follow up consultation,follow_up_consultation
+23,medical consultation,medical_consultation
+24,blood donation,blood_donation
+25,laboratory examination ,lab_exam
+26,unjustified absence ,unjustified_absence 
+27,physiotherapy,physiotherapy
+28,dental consultation,dental_consultation
